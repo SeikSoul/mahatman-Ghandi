@@ -1,1 +1,0 @@
-alert (" onde equerou tou");
